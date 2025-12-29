@@ -1,2 +1,2 @@
-# Certificates-portfolio-
-This repository contains my academic and professional certificates uploaded as part of institutional requirements.
+Certificates uploaded as per instructions.
+This repository contains my academic and professional certificates for verification purposes.
